@@ -1,0 +1,12 @@
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\bin\Release\ExcelTestMerge.exe.config
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\bin\Release\ExcelTestMerge.exe
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\bin\Release\ExcelTestMerge.pdb
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\bin\Release\ClosedXML.dll
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\bin\Release\DocumentFormat.OpenXml.dll
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\bin\Release\ClosedXML.xml
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\obj\Release\ExcelTestMerge.mainForm.resources
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\obj\Release\ExcelTestMerge.Properties.Resources.resources
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\obj\Release\ExcelTestMerge.csproj.GenerateResource.Cache
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\obj\Release\ExcelTestMerge.exe
+c:\users\denis\documents\visual studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\obj\Release\ExcelTestMerge.pdb
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\ExcelTestMerge\ExcelTestMerge\obj\Release\ExcelTestMerge.csprojResolveAssemblyReference.cache
